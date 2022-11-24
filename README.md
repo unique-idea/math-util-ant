@@ -1,4 +1,4 @@
-[![CI with GitHub Actions using Ant and JUnit | © 2022 by thanhlee](https://github.com/unique-idea/math-util-ant/actions/workflows/ci-with-ant.yml/badge.svg)](https://github.com/unique-idea/math-util-ant/actions/workflows/ci-with-ant.yml)
+
 
 # Welcome to Math Utility Repository
 
@@ -12,10 +12,10 @@ java.util.Math
 
 ### Screen-shots
 
-![Build process with Ant](https://github.com/ThanhLee1910/math-util-ant/blob/main/screenshot/build-process-with-ant.png)
+![Build process with Ant](https://github.com/unique-idea/math-util-ant/blob/main/screenshot/build-process-with-ant.png)
 
-![DDT source code with JUnit](https://github.com/ThanhLee1910/math-util-ant/blob/main/screenshot/ddt-source-using-junit.png)
+![DDT source code with JUnit](https://github.com/unique-idea/math-util-ant/blob/main/screenshot/ddt-source-using-junit.png)
 
-#### Connect me via thanhlqse160610@gmail.com
+#### Connect me via lequanthanhbp2019@gmail.com
 
-#### Copyright &#169; 2020 thanhlee1910
+#### Copyright &#169; 2020 unique-idea
