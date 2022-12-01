@@ -24,13 +24,13 @@
 >>
 
 
-#### full tutorial via yutube: ![giaoLang](https://www.youtube.com/@giaolang)
+#### full tutorial via yutube: [giaoLang](https://www.youtube.com/@giaolang)
 
-#### Any question Connect me via: lequanthanhbp2019@gmail.com
+#### Any question Connect me via gmail: lequanthanhbp2019@gmail.com
 
 --
 
 #### Copyright &#169; 2020 unique-idea
 
 
-<div align="center">
+</div>
